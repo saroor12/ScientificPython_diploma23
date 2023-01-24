@@ -8,7 +8,7 @@ Lecture1 - basics:
 - control flow
 - functions
 
-Lecture2:
+Lecture 2 - decorators and sympy:
 
 - homework discussion
 - git survival guide
